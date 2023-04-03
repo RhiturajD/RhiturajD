@@ -1,17 +1,18 @@
 <img align="center" src="" alt="coding" width="900" height ="350" />
 <h1 align="center">Hi 👋, I'm Rhituraj Deori</h1>
-<p align="center" display="block"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&color=2d7e5e&vCenter=true&center=true&width=460&lines=machine+learning+enthusiast" </p> 
+<p align="center" display="block"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&color=2d7e5e&vCenter=true&center=true&width=500&lines=machine+learning+enthusiast" </p> 
 <h3 align="center"></h3>
 
 <img align="right" src="https://cdn.dribbble.com/users/2259063/screenshots/10495285/media/b549dff317840e6a51c6ac654b6b6188.png?compress=1&resize=1600x1200&vertical=top" alt="coding" width="400" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RhiturajD&label=Profile%20views&color=grey&style=for-the-badge" alt="RhiturajD" /> </p>
 
-<p align="left"> <a href="https://twitter.com/alok_std" target="blank"><img src="https://img.shields.io/twitter/follow/alok_std?logo=twitter&style=for-the-badge" alt="alok_std" /></a> </p>
 
 - 🔭 I’m currently working as a **utility GANs**
 
-- 🌱 I’m currently learning **Programming** and **Machine Learning**
+- 🌱 I’m currently learning **Data Science** and **Machine Learning**
+
+- 🎗 I'm interested in **Data Mining and Analytics**
 
 - 💬  I would love to talk about **open source and accessibility.**
 
