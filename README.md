@@ -1,6 +1,6 @@
 <img align="center" src="" alt="coding" width="900" height ="350" />
 <h1 align="center">Hi 👋, I'm Rhituraj Deori</h1>
-<p align="center" display="block"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&color=2d7e5e&vCenter=true&center=true&width=460&lines=full-stack+web+developer" </p> 
+<p align="center" display="block"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&color=2d7e5e&vCenter=true&center=true&width=460&lines=machine+learning+enthusiast" </p> 
 <h3 align="center"></h3>
 
 <img align="right" src="https://cdn.dribbble.com/users/2259063/screenshots/10495285/media/b549dff317840e6a51c6ac654b6b6188.png?compress=1&resize=1600x1200&vertical=top" alt="coding" width="400" />
