@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working as a **utility GANs**
 
-- 🌱 I’m currently learning **Data Science** and **Machine Learning**
+- 🌱 I’m currently learning **Data Mining** and **Machine Learning**
 
 - 🎗 I'm interested in **Data Mining and Analytics**
 
